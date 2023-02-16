@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hello SKT</string>
+    <string name="my_name">Choong Hon Guan</string>
+    <string name="show_button">Show</string>
+    <string name="hide_button">Hide</string>
+    <string name="toggleQrText">Show</string>
+</resources>
