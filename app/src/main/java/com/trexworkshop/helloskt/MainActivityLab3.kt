@@ -10,6 +10,7 @@ class MainActivityLab3 : AppCompatActivity() {
         val binding: ActivityMainLab3Binding =
             ActivityMainLab3Binding.inflate(layoutInflater)
         setContentView(binding.root)
+        binding.radioGroupGender.check(binding.radioButtonMale.id)
         binding.buttonCalculate.setOnClickListener {
             var basic: Int = 0
             var extra: Int = 0
@@ -64,7 +65,10 @@ class MainActivityLab3 : AppCompatActivity() {
             binding.myPremium = premium
         }
         binding.buttonReset.setOnClickListener {
-
+            binding.myPremium = Premium(0,0,0)
+            binding.spinnerAge.setSelection(0)
+            binding.radioGroupGender.check(binding.radioButtonMale.id)
+            binding.checkBoxSmoker.isChecked = false
         }
     }
 }
