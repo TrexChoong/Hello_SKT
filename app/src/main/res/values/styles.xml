@@ -5,4 +5,9 @@
         <item name="android:fontFamily">sans-serif-black</item>
         <item name="android:textSize">16sp</item>
     </style>
+
+    <style name="font_heading">
+        <item name="android:fontFamily">sans-serif-black</item>
+        <item name="android:textSize">20sp</item>
+    </style>
 </resources>

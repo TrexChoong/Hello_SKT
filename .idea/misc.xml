@@ -4,8 +4,23 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="app/src/main/res/layout-land/fragment_about.xml" value="0.15416666666666667" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.375" />
         <entry key="app/src/main/res/layout/activity_main_lab3.xml" value="0.33694745621351124" />
+        <entry key="app/src/main/res/layout/activity_main_lab4.xml" value="0.10572916666666667" />
+        <entry key="app/src/main/res/layout/app_bar_main_activity_lab4.xml" value="0.10572916666666667" />
+        <entry key="app/src/main/res/layout/content_main_activity_lab4.xml" value="0.10572916666666667" />
+        <entry key="app/src/main/res/layout/fragment_about.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_dividend.xml" value="0.10572916666666667" />
+        <entry key="app/src/main/res/layout/fragment_dividend2.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_investment.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_investment2.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_profile.xml" value="0.10555555555555556" />
+        <entry key="app/src/main/res/layout/fragment_slideshow.xml" value="0.1" />
+        <entry key="app/src/main/res/menu/activity_main_drawer.xml" value="0.10572916666666667" />
+        <entry key="app/src/main/res/menu/main_activity_lab4.xml" value="0.10572916666666667" />
+        <entry key="app/src/main/res/menu/profile_menu.xml" value="0.10572916666666667" />
       </map>
     </option>
   </component>
